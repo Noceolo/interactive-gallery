@@ -1,4 +1,18 @@
+body {
+    background-color: rgb(80, 70, 70);
+}
+
 #gallery {
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
+
+#currentImage {
+    width: 960px;
+    height: 960px;
+    border: solid 0.5px;
+    margin: 5px;
+}
+
