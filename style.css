@@ -16,7 +16,12 @@ body {
     margin: 5px;
 }
 
+button {
+    border-radius: 8px;
+}
+
 button:disabled, 
 button[disabled]{
     background-color: darkgrey;
+    color: grey;
 }
