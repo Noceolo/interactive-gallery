@@ -31,5 +31,4 @@ nextBtn.addEventListener("click", () =>  {
     }if (i === 4){
         nextBtn.disabled = true;
     }
-
 })
